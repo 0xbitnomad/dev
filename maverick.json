@@ -1,0 +1,11 @@
+{
+  "name": "Maverick Coin",
+  "symbol": "MAVERICK",
+  "description": "The Maverick Coin is a token created on the Solana blockchain",
+  "image": "https://raw.githubusercontent.com/0xbitnomad/dev/main/maverick.png",
+  "extensions": {
+    "website": "https://solana.com/",
+    "twitter": "https://x.com/solana",
+    "telegram": "https://t.me/solana"
+  }
+}
